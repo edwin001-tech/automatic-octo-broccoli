@@ -1,0 +1,9 @@
+{
+  "name": "mern-setup",
+  "version": "1.0.0",
+  "description": "mern simple set up",
+  "main": "index.js",
+  "repository": "https://github.com/edwin001-tech/automatic-octo-broccoli",
+  "author": "edwin shitakwa",
+  "license": "MIT"
+}
